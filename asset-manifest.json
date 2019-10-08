@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StarDB/static/css/main.db887eb8.chunk.css",
+    "main.js": "/StarDB/static/js/main.3a64341c.chunk.js",
+    "main.js.map": "/StarDB/static/js/main.3a64341c.chunk.js.map",
+    "runtime~main.js": "/StarDB/static/js/runtime~main.ba656614.js",
+    "runtime~main.js.map": "/StarDB/static/js/runtime~main.ba656614.js.map",
+    "static/js/2.600a2e4f.chunk.js": "/StarDB/static/js/2.600a2e4f.chunk.js",
+    "static/js/2.600a2e4f.chunk.js.map": "/StarDB/static/js/2.600a2e4f.chunk.js.map",
+    "index.html": "/StarDB/index.html",
+    "precache-manifest.91a4ec42f2d3a07863b7f1964c89249e.js": "/StarDB/precache-manifest.91a4ec42f2d3a07863b7f1964c89249e.js",
+    "service-worker.js": "/StarDB/service-worker.js",
+    "static/css/main.db887eb8.chunk.css.map": "/StarDB/static/css/main.db887eb8.chunk.css.map"
+  }
+}
